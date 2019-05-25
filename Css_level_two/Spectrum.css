@@ -1,0 +1,21 @@
+#h{
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color: #247BA0;
+}
+#two{background-color: #70C1B3;}
+#three{background-color:#B2DBBF;}
+#four{background-color: #F3FFBD;}
+#five{background-color: #FF1654; }
+
+td{
+  height: 300px;
+  width: 150px;
+  border:6px solid white;
+}

@@ -1,0 +1,32 @@
+/* h1{
+  font-family: cursive;
+} */
+h1{
+  font-family: "Arial";
+}
+/* p{
+  font-family: monospace;
+}
+body{
+  font-size: 10px;
+} */
+/* 1em=16px */
+/* #two{
+  font-size: 2.0em;
+} */
+p{
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'AlexBrushRegular';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  /* font-style: italic;
+  font-weight: bold; */
+}
+h1{
+  text-align: center;
+}
+/* list of typefaces included with microsoft windows */
+/* cssfontstack.com */
+/* fonts.google.com */
+/* fontlibrary.org */
